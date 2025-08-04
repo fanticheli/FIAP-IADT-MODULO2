@@ -64,7 +64,7 @@ O gráfico gerado mostra a evolução do valor (fitness) ao longo das gerações
 
 ## 🎥 Entrega e Demonstração
 
-- **Vídeo explicativo**: [https://youtu.be/mCHXPoZ3OW8](#)
+- **Vídeo explicativo**: [https://youtu.be/mCHXPoZ3OW8?si=lg2TwhUfYlgZPxLK](#)
 
 ---
 
