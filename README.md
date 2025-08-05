@@ -64,7 +64,7 @@ O gráfico gerado mostra a evolução do valor (fitness) ao longo das gerações
 
 ## 🎥 Entrega e Demonstração
 
-- **Vídeo explicativo**: [https://youtu.be/mCHXPoZ3OW8](#)
+- **Vídeo explicativo**: [https://youtu.be/mCHXPoZ3OW8?si=lg2TwhUfYlgZPxLK](#)
 
 ---
 
@@ -74,4 +74,4 @@ Este projeto foi desenvolvido como parte do **Tech Challenge - Fase 2**.
 
 Aluno: IGOR FANTICHELI OLIVEIRA rm364892
 
-Aluno: LINCOLN ARAUJO DIAS rm364892
+Aluno: LINCOLN ARAUJO DIAS rm365007
