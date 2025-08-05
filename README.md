@@ -74,4 +74,4 @@ Este projeto foi desenvolvido como parte do **Tech Challenge - Fase 2**.
 
 Aluno: IGOR FANTICHELI OLIVEIRA rm364892
 
-Aluno: LINCOLN ARAUJO DIAS rm364892
+Aluno: LINCOLN ARAUJO DIAS rm365007
